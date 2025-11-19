@@ -448,7 +448,3 @@ This tool is provided for **educational and ethical testing purposes only**. The
 This project is licensed under the MIT License.
 
 ---
-
-## Contact
-
-For questions or contributions, please contact the author at `example.email@domain.com`.
