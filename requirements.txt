@@ -1,0 +1,12 @@
+torch
+torchvision
+datasets
+Pillow
+opencv-python
+pyexiftool
+pdf2image
+pytesseract
+python-docx
+trimesh
+requests
+PyQt5

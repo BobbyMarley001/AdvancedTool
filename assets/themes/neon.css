@@ -1,0 +1,41 @@
+QMainWindow {
+    background-color: #0D1B2A;
+}
+QTabWidget::pane {
+    border: 1px solid #FF00FF;
+    background: #1B263B;
+}
+QTabBar::tab {
+    background: #1B263B;
+    color: #FF00FF;
+    padding: 12px;
+    border-radius: 5px;
+}
+QTabBar::tab:selected {
+    background: #FF00FF;
+    color: #FFFFFF;
+}
+QPushButton {
+    background-color: #FF00FF;
+    color: white;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 14px;
+}
+QPushButton:hover {
+    background-color: #E91E63;
+}
+QProgressBar {
+    border: 1px solid #FF00FF;
+    border-radius: 5px;
+    background: #1B263B;
+    color: white;
+}
+QProgressBar::chunk {
+    background-color: #FF00FF;
+}
+QTextEdit {
+    background-color: #1B263B;
+    color: #FF00FF;
+    border: 1px solid #FF00FF;
+}
